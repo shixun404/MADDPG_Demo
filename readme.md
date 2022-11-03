@@ -1,5 +1,3 @@
-## Getting started:
-
 - This is a MADDPG demo for multiagent-particle-envs (mpe) environment, run the following command to install mpe environment:
 ```
 git clone https://github.com/openai/multiagent-particle-envs
@@ -13,3 +11,4 @@ pip install -e .
 python train.py
 ```
 
+The code is based on PyTorch.
